@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 😀 I'm Tato Ma</h1>
+<h3 align="center">A progressive full stack developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatoMa" alt="tatoMa" /> </p>
+
+- 🌱 I’m currently learning **Nest, AWS**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatoMa&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
