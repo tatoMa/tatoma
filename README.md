@@ -9,6 +9,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatoMa&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+### ✅ Skills
+- Frontend: react, Next, Vue, Nuxt, Tailwind, Materialui, Vuetify
+- Backend: Nodejs, Nest, Express
+- PWA, SSR, ISR, SSG, SPA
+- Unit testing, Continuous integration, Git, Docker, Monitoring
+- API: Payment (Stripe, Paypal), Social networks
+- Data: NoSQL
+- CMS: Sanity, Strapi, Wordpress
+- SEO & SEA
+
+- 💬 Ask me about **Next, React, Vue, JavaScript**
+
+- 📫 How to reach me **jason.ma1904@hotmail.com**
+- 
 <!--
 **tatoMa/tatoMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
