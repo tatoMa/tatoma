@@ -8,6 +8,7 @@
 ### ✅ Skills
 - Frontend: react, Next, Vue, Nuxt, Tailwind, Materialui, Vuetify
 - Backend: Nodejs, Nest, Express
+- Language: Javascript, Typescript, HTML. CSS
 - PWA, SSR, ISR, SSG, SPA
 - Unit testing, Continuous integration, Git, Docker, Monitoring
 - API: Payment (Stripe, Paypal), Social networks
