@@ -1,5 +1,5 @@
-<h1 align="center">Hi 😀 I'm Tato Ma</h1>
-<h3 align="center">A progressive full stack developer</h3>
+<h1 align="center">Hi 😀 I'm Tato</h1>
+<h3 align="center">A progressive full stack developer who focuses on frontend and performance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatoMa" alt="tatoMa" /> </p>
 
