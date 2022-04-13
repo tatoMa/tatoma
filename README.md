@@ -19,7 +19,7 @@
  
 📫 How to reach me **jason.ma1904@hotmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tatoMa&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="tatoMa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tatoMa&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="tatoMa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatoMa&layout=compact&bg_color=140deg,904e95,ff6a00&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="tatoMa" /></p>
 <!--
